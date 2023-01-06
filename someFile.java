@@ -3,7 +3,7 @@ class someFile {
     {
     System.out.println("hello");
     System.out.println("this change is made in main branch");
-    System.out.println("there'll be conflict on this line");
+    System.out.println("there will be conflict on this line");
     }
 }
 
